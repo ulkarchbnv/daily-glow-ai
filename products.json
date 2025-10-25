@@ -1,0 +1,44 @@
+{
+  "dry": {
+    "cold": [
+      "Clinique Moisture Surge 100H",
+      "L’Oréal True Match Foundation (Creamy Formula)",
+      "CeraVe Hydrating Cream"
+    ],
+    "sunny": [
+      "The Ordinary Hyaluronic Acid Serum",
+      "Neutrogena Hydro Boost Water Gel"
+    ]
+  },
+  "oily": {
+    "hot": [
+      "Fenty Beauty Pro Filt’r Soft Matte Foundation",
+      "La Roche-Posay Effaclar Gel Cleanser",
+      "Estée Lauder Double Wear Foundation"
+    ],
+    "rainy": [
+      "Innisfree Pore Blur Primer",
+      "The Ordinary Niacinamide Serum"
+    ]
+  },
+  "normal": {
+    "sunny": [
+      "Maybelline Fit Me Foundation",
+      "Garnier Micellar Cleansing Water"
+    ],
+    "cold": [
+      "Nivea Soft Moisturizing Cream",
+      "Clinique Even Better Glow Foundation"
+    ]
+  },
+  "combination": {
+    "hot": [
+      "MAC Studio Fix Fluid",
+      "The Ordinary Glycolic Acid Toner"
+    ],
+    "cold": [
+      "Laneige Water Sleeping Mask",
+      "Maybelline Dream Radiant Liquid"
+    ]
+  }
+}
